@@ -1,3 +1,5 @@
+<h1>Bem-vindo(a) ao meu perfil 😁</h1>
+
 <div>
   <a href="https://github.com/erickf-silva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=erickf-silva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
