@@ -1,4 +1,4 @@
-<h1>Bem-vindo(a) ao meu perfil 😁</h1>
+<h1>Bem-vindo(a) ao meu perfil 👋</h1>
 
 <div>
   <a href="https://github.com/erickf-silva">
